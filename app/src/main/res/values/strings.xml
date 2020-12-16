@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestingProject</string>
+    <string name="recycler1">In this Activity i get data from the server using retrofit and show them in the recyclerView</string>
+    <string name="recycler2">In this Activity i showed the movieList data in the recyclerView with onclick and onLongClick feature(using basic way)</string>
+    <string name="recycler3">In this Activity i showed the movieList data in the recyclerView with onClick and onLongClick feature(using interface) and
+    also swap left to delete the item and swap right to archive the item and also drag and drop the list item in the recyclerView
+    and also the search the list item in side the recyclerView but unfortunately searching is not working.</string>
+</resources>
